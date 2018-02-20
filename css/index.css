@@ -1,0 +1,39 @@
+body {
+background-image: url("nebula.jpg")
+}
+
+h1{
+    color: DeepSkyBlue;
+    text-align: center;
+    font-family: monospace;
+
+  }
+img {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+p{
+    text-align: inherit;
+    font-color: White;
+}
+
+h2{
+  color: Yellowgreen;
+  font-style: oblique;
+  text-align: center;
+}
+h3{
+  color: Yellowgreen;
+}
+
+.headings {
+  color:white;
+}
+
+ul{
+  color: red;
+}
+#h2{
+  color: White;
+}
